@@ -1,3 +1,4 @@
+def main():
 nome = ""
 idade = 0
 
@@ -27,3 +28,5 @@ while True:
 
     else:
         print("Opção inválida!")
+if __name__=="__main__":
+    main()
